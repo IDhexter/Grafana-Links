@@ -1,0 +1,11 @@
+# Secrets & Environment
+.env
+*.env.local
+
+# Temporary & Scratch files
+scratch/
+tmp/
+*.tmp
+*.bak
+*.log
+chrome_*/
